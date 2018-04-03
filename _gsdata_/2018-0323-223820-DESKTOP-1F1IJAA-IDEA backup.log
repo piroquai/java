@@ -1,0 +1,91 @@
+2018-03-23 22:38:20: Connected to ~Pedro\IdeaProjects: C: NTFS: type=NTFS vol= flags=3E706FF
+2018-03-23 22:38:21: Connected to gdrive://www.googleapis.com/IDEA Projects
+2018-03-23 22:38:22: -- Analysis Started by User Command
+2018-03-23 22:38:22: IDEA backup: ANALYSIS started by User Command on 'DESKTOP-1F1IJAA' (GoodSync 10.8.1.6)
+2018-03-23 22:38:22: ~Pedro\IdeaProjects (C:/Users/Pedro/IdeaProjects) [TmpDest] =NoPropDels=> gdrive://www.googleapis.com/IDEA Projects [DirDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, ChangeLimit=50, LinksIgnore
+2018-03-23 22:38:22: Exclude Hidden, Exclude System, Exclude .DS_Store|/System Volume Information|Thumbs.db|name *._gstmp 
+2018-03-23 22:38:22: L: Reading State File C:/Users/Pedro/IdeaProjects/_gsdata_/_file_state_v4._gs
+2018-03-23 22:38:22: L: C:/Users/Pedro/IdeaProjects/_gsdata_/_file_state_v4._gs: created By: IDEA backup.Pedro@DESKTOP-1F1IJAA at: 2018.03.23 19:04:26 Russia TZ 2 Standard Time
+2018-03-23 22:38:22: L: Files: 290 (excluded 0). Folders: 171 (excluded 1). Times (s): Folder Scan: 0.031 (14903 f/s), Compare: 0.000 C: NTFS Free: 32.3 GB, Total: 237 GB
+2018-03-23 22:38:22: R: Reading State File gdrive://www.googleapis.com/IDEA Projects/_gsdata_/_file_state_v4._gs
+2018-03-23 22:38:24: R: gdrive://www.googleapis.com/IDEA Projects/_gsdata_/_file_state_v4._gs: created By: IDEA backup.Pedro@DESKTOP-1F1IJAA at: 2018.03.23 19:04:26 Russia TZ 2 Standard Time
+2018-03-23 22:39:16: R: Files: 276 (excluded 0). Folders: 161 (excluded 1). Times (s): Folder Scan: 53.758 (8 f/s), Compare: 0.006 Петр_Онущенко-0ANuEhgqY7CcyUk9PVA Free: 5.85 GB, Total: 15.0 GB
+2018-03-23 22:39:16: Do Not Propagate Deletions: 1-way deletions reverted: 1
+2018-03-23 22:39:16: On disk file:///C: space required for sync is 0 bytes, you have 32.6 GB
+2018-03-23 22:39:16: On disk gdrive://www.googleapis.com space required for sync is 161 KB, you have 5.85 GB
+2018-03-23 22:39:16: Changes: 52, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 486
+2018-03-23 22:39:16: Left to Right: Copy File: 52 
+2018-03-23 22:39:16: -- Analysis Complete. Time 00:00:56, Speed: 8 files/s
+2018-03-23 22:39:16: 
+2018-03-23 22:39:20: Connected to ~Pedro\IdeaProjects: C: NTFS: type=NTFS vol= flags=3E706FF
+2018-03-23 22:39:20: Connected to gdrive://www.googleapis.com/IDEA Projects
+2018-03-23 22:39:21: == Sync Started by User Command
+2018-03-23 22:39:21: IDEA backup: SYNC started by User Command on 'DESKTOP-1F1IJAA'
+2018-03-23 22:39:21: ~Pedro\IdeaProjects (C:/Users/Pedro/IdeaProjects) [TmpDest] =NoPropDels=> gdrive://www.googleapis.com/IDEA Projects [DirDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, ChangeLimit=50, LinksIgnore
+2018-03-23 22:39:21: Locking folder C:/Users/Pedro/IdeaProjects for write
+2018-03-23 22:39:21: Locking folder gdrive://www.googleapis.com/IDEA Projects for write
+2018-03-23 22:39:25: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/GraphMaker'
+2018-03-23 22:39:25: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/GraphMaker/.idea'
+2018-03-23 22:39:26: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/GraphMaker/.idea/artifacts'
+2018-03-23 22:39:27: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/GraphMaker/out'
+2018-03-23 22:39:28: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/GraphMaker/out/production'
+2018-03-23 22:39:29: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/GraphMaker/out/production/GraphMaker'
+2018-03-23 22:39:30: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/GraphMaker/out/production/GraphMaker/sample'
+2018-03-23 22:39:31: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/GraphMaker/src'
+2018-03-23 22:39:32: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/GraphMaker/src/sample'
+2018-03-23 22:39:33: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/untitled2'
+2018-03-23 22:39:34: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/untitled2/.idea'
+2018-03-23 22:39:35: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/untitled2/.idea/artifacts'
+2018-03-23 22:39:36: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/untitled2/out'
+2018-03-23 22:39:37: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/untitled2/out/production'
+2018-03-23 22:39:38: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/untitled2/out/production/untitled2'
+2018-03-23 22:39:38: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/untitled2/out/production/untitled2/sample'
+2018-03-23 22:39:39: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/untitled2/src'
+2018-03-23 22:39:40: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/untitled2/src/sample'
+2018-03-23 22:39:42: Copy New 'C:/Users/Pedro/IdeaProjects/GraphMaker/.idea/compiler.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/GraphMaker/.idea/compiler.xml' (734)
+2018-03-23 22:39:45: Copy New 'C:/Users/Pedro/IdeaProjects/GraphMaker/.idea/description.html' -> 'gdrive://www.googleapis.com/IDEA Projects/GraphMaker/.idea/description.html' (189)
+2018-03-23 22:39:47: Copy New 'C:/Users/Pedro/IdeaProjects/GraphMaker/.idea/encodings.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/GraphMaker/.idea/encodings.xml' (171)
+2018-03-23 22:39:49: Copy New 'C:/Users/Pedro/IdeaProjects/GraphMaker/.idea/gradle.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/GraphMaker/.idea/gradle.xml' (218)
+2018-03-23 22:39:51: Copy New 'C:/Users/Pedro/IdeaProjects/GraphMaker/.idea/misc.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/GraphMaker/.idea/misc.xml' (489)
+2018-03-23 22:39:53: Copy New 'C:/Users/Pedro/IdeaProjects/GraphMaker/.idea/modules.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/GraphMaker/.idea/modules.xml' (267)
+2018-03-23 22:39:56: Copy New 'C:/Users/Pedro/IdeaProjects/GraphMaker/.idea/uiDesigner.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/GraphMaker/.idea/uiDesigner.xml' (8,919)
+2018-03-23 22:39:58: Copy New 'C:/Users/Pedro/IdeaProjects/GraphMaker/.idea/vcs.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/GraphMaker/.idea/vcs.xml' (173)
+2018-03-23 22:40:00: Copy New 'C:/Users/Pedro/IdeaProjects/GraphMaker/.idea/workspace.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/GraphMaker/.idea/workspace.xml' (34,205)
+2018-03-23 22:40:02: Copy New 'C:/Users/Pedro/IdeaProjects/GraphMaker/GraphMaker.iml' -> 'gdrive://www.googleapis.com/IDEA Projects/GraphMaker/GraphMaker.iml' (437)
+2018-03-23 22:40:05: Copy New 'C:/Users/Pedro/IdeaProjects/GraphMaker/out/production/GraphMaker/sample/Controller.class' -> 'gdrive://www.googleapis.com/IDEA Projects/GraphMaker/out/production/GraphMaker/sample/Controller.class' (1,043)
+2018-03-23 22:40:06: Copy New 'C:/Users/Pedro/IdeaProjects/GraphMaker/out/production/GraphMaker/sample/Main.class' -> 'gdrive://www.googleapis.com/IDEA Projects/GraphMaker/out/production/GraphMaker/sample/Main.class' (1,199)
+2018-03-23 22:40:09: Copy New 'C:/Users/Pedro/IdeaProjects/GraphMaker/out/production/GraphMaker/sample/sample.fxml' -> 'gdrive://www.googleapis.com/IDEA Projects/GraphMaker/out/production/GraphMaker/sample/sample.fxml' (2,197)
+2018-03-23 22:40:11: Copy New 'C:/Users/Pedro/IdeaProjects/GraphMaker/src/sample/Controller.java' -> 'gdrive://www.googleapis.com/IDEA Projects/GraphMaker/src/sample/Controller.java' (819)
+2018-03-23 22:40:13: Copy New 'C:/Users/Pedro/IdeaProjects/GraphMaker/src/sample/Main.java' -> 'gdrive://www.googleapis.com/IDEA Projects/GraphMaker/src/sample/Main.java' (719)
+2018-03-23 22:40:15: Copy New 'C:/Users/Pedro/IdeaProjects/GraphMaker/src/sample/sample.fxml' -> 'gdrive://www.googleapis.com/IDEA Projects/GraphMaker/src/sample/sample.fxml' (2,197)
+2018-03-23 22:40:22: Load Recycled DB: gdrive://www.googleapis.com/IDEA Projects/_gsdata_/_recycled_db._gs
+2018-03-23 22:40:23: Copy Over 'C:/Users/Pedro/IdeaProjects/KILLER/src/sample/sample.fxml' -> 'gdrive://www.googleapis.com/IDEA Projects/KILLER/src/sample/sample.fxml' (2,152)
+2018-03-23 22:40:29: Copy Over 'C:/Users/Pedro/IdeaProjects/untitled1/.idea/workspace.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled1/.idea/workspace.xml' (33,697)
+2018-03-23 22:40:36: Copy Over 'C:/Users/Pedro/IdeaProjects/untitled1/out/production/untitled1/sample/EditorController.class' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled1/out/production/untitled1/sample/EditorController.class' (3,909)
+2018-03-23 22:40:42: Copy Over 'C:/Users/Pedro/IdeaProjects/untitled1/src/sample/EditorController.java' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled1/src/sample/EditorController.java' (1,896)
+2018-03-23 22:40:44: Copy New 'C:/Users/Pedro/IdeaProjects/untitled2/.idea/compiler.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled2/.idea/compiler.xml' (734)
+2018-03-23 22:40:46: Copy New 'C:/Users/Pedro/IdeaProjects/untitled2/.idea/description.html' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled2/.idea/description.html' (189)
+2018-03-23 22:40:47: Copy New 'C:/Users/Pedro/IdeaProjects/untitled2/.idea/encodings.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled2/.idea/encodings.xml' (171)
+2018-03-23 22:40:50: Copy New 'C:/Users/Pedro/IdeaProjects/untitled2/.idea/gradle.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled2/.idea/gradle.xml' (218)
+2018-03-23 22:40:52: Copy New 'C:/Users/Pedro/IdeaProjects/untitled2/.idea/misc.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled2/.idea/misc.xml' (489)
+2018-03-23 22:40:55: Copy New 'C:/Users/Pedro/IdeaProjects/untitled2/.idea/modules.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled2/.idea/modules.xml' (265)
+2018-03-23 22:41:00: Copy New 'C:/Users/Pedro/IdeaProjects/untitled2/.idea/uiDesigner.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled2/.idea/uiDesigner.xml' (8,919)
+2018-03-23 22:41:02: Copy New 'C:/Users/Pedro/IdeaProjects/untitled2/.idea/vcs.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled2/.idea/vcs.xml' (173)
+2018-03-23 22:41:05: Copy New 'C:/Users/Pedro/IdeaProjects/untitled2/.idea/workspace.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled2/.idea/workspace.xml' (33,283)
+2018-03-23 22:41:07: Copy New 'C:/Users/Pedro/IdeaProjects/untitled2/out/production/untitled2/sample/sample.fxml' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled2/out/production/untitled2/sample/sample.fxml' (298)
+2018-03-23 22:41:11: Copy New 'C:/Users/Pedro/IdeaProjects/untitled2/src/sample/Controller.java' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled2/src/sample/Controller.java' (49)
+2018-03-23 22:41:14: Copy New 'C:/Users/Pedro/IdeaProjects/untitled2/src/sample/Main.java' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled2/src/sample/Main.java' (2,649)
+2018-03-23 22:41:17: Copy New 'C:/Users/Pedro/IdeaProjects/untitled2/src/sample/sample.fxml' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled2/src/sample/sample.fxml' (298)
+2018-03-23 22:41:20: Copy New 'C:/Users/Pedro/IdeaProjects/untitled2/untitled2.iml' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled2/untitled2.iml' (437)
+2018-03-23 22:41:20: Save State File C:/Users/Pedro/IdeaProjects/_gsdata_/_file_state_v4._gs
+2018-03-23 22:41:22: Save State File gdrive://www.googleapis.com/IDEA Projects/_gsdata_/_file_state_v4._gs
+2018-03-23 22:41:23: Cleanup recycled files in C:/Users/Pedro/IdeaProjects/_gsdata_/_saved_
+2018-03-23 22:41:23: Load Recycled DB: C:/Users/Pedro/IdeaProjects/_gsdata_/_recycled_db._gs
+2018-03-23 22:41:23: Cleanup old logs in C:/Users/Pedro/IdeaProjects/_gsdata_
+2018-03-23 22:41:23: Cleanup recycled files in gdrive://www.googleapis.com/IDEA Projects/_gsdata_/_saved_
+2018-03-23 22:41:25: Save Recycled DB: gdrive://www.googleapis.com/IDEA Projects/_gsdata_/_recycled_db._gs
+2018-03-23 22:41:25: Cleanup old logs in gdrive://www.googleapis.com/IDEA Projects/_gsdata_
+2018-03-23 22:41:26: == Sync Complete. Time: 00:02:06, Speed: 4.05 KB/s, OK: 52, Errors: 0
+2018-03-23 22:41:26: Unlocking folder C:/Users/Pedro/IdeaProjects/_gsdata_/lock.gsl
+2018-03-23 22:41:26: Unlocking folder gdrive://www.googleapis.com/IDEA Projects/_gsdata_/lock.gsl
+2018-03-23 22:41:27: 

@@ -1,0 +1,67 @@
+2018-03-22 19:54:02: Connected to ~Pedro\IdeaProjects: C: NTFS: type=NTFS vol= flags=3E706FF
+2018-03-22 19:54:02: Connected to gdrive://www.googleapis.com/IDEA Projects
+2018-03-22 19:54:03: -- Analysis Started by User Command
+2018-03-22 19:54:03: IDEA backup: ANALYSIS started by User Command on 'DESKTOP-1F1IJAA' (GoodSync 10.7.9.4)
+2018-03-22 19:54:03: ~Pedro\IdeaProjects (C:/Users/Pedro/IdeaProjects) [TmpDest] =NoPropDels=> gdrive://www.googleapis.com/IDEA Projects [DirDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, ChangeLimit=50, LinksIgnore
+2018-03-22 19:54:03: Exclude Hidden, Exclude System, Exclude .DS_Store|/System Volume Information|Thumbs.db|name *._gstmp 
+2018-03-22 19:54:03: L: Reading State File C:/Users/Pedro/IdeaProjects/_gsdata_/_file_state_v4._gs
+2018-03-22 19:54:03: L: C:/Users/Pedro/IdeaProjects/_gsdata_/_file_state_v4._gs: created By: IDEA backup.Pedro@DESKTOP-1F1IJAA at: 2018.03.12 12:00:01 Russia TZ 2 Standard Time
+2018-03-22 19:54:03: L: Files: 178 (excluded 0). Folders: 123 (excluded 1). Times (s): Folder Scan: 0.038 (7947 f/s), Compare: 0.000 C: NTFS Free: 33.2 GB, Total: 237 GB
+2018-03-22 19:54:04: R: Reading State File gdrive://www.googleapis.com/IDEA Projects/_gsdata_/_file_state_v4._gs
+2018-03-22 19:54:07: R: gdrive://www.googleapis.com/IDEA Projects/_gsdata_/_file_state_v4._gs: created By: idea.Petr@MARIABM at: 2018.03.12 20:09:59 Russia TZ 2 Standard Time
+2018-03-22 19:54:39: R: Files: 139 (excluded 0). Folders: 105 (excluded 1). Times (s): Folder Scan: 35.575 (6 f/s), Compare: 0.000 Петр_Онущенко-0ANuEhgqY7CcyUk9PVA Free: 5.85 GB, Total: 15.0 GB
+2018-03-22 19:54:39: Do Not Propagate Deletions: 1-way deletions reverted: 1
+2018-03-22 19:54:39: /Creative/.idea/misc.xml: Warning: Older file to replace Newer file
+2018-03-22 19:54:39: /Creative/.idea/modules.xml: Warning: Older file to replace Newer file
+2018-03-22 19:54:39: /Creative/Creative.iml: Warning: Older file to replace Newer file
+2018-03-22 19:54:39: On disk file:///C: space required for sync is 0 bytes, you have 33.2 GB
+2018-03-22 19:54:39: On disk gdrive://www.googleapis.com space required for sync is 397 KB, you have 5.85 GB
+2018-03-22 19:54:39: Changes: 98, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 326
+2018-03-22 19:54:39: Left to Right: Copy File: 98 
+2018-03-22 19:54:39: -- Analysis Complete. Time 00:00:37, Speed: 8 files/s
+2018-03-22 19:54:39: 
+2018-03-22 19:54:54: Connected to ~Pedro\IdeaProjects: C: NTFS: type=NTFS vol= flags=3E706FF
+2018-03-22 19:54:54: Connected to gdrive://www.googleapis.com/IDEA Projects
+2018-03-22 19:54:54: == Sync Started by User Command
+2018-03-22 19:54:54: IDEA backup: SYNC started by User Command on 'DESKTOP-1F1IJAA'
+2018-03-22 19:54:54: ~Pedro\IdeaProjects (C:/Users/Pedro/IdeaProjects) [TmpDest] =NoPropDels=> gdrive://www.googleapis.com/IDEA Projects [DirDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, ChangeLimit=50, LinksIgnore
+2018-03-22 19:54:54: Locking folder C:/Users/Pedro/IdeaProjects for write
+2018-03-22 19:54:54: Locking folder gdrive://www.googleapis.com/IDEA Projects for write
+2018-03-22 19:54:58: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/Mammals'
+2018-03-22 19:54:59: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/Mammals/.idea'
+2018-03-22 19:55:00: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/Mammals/src'
+2018-03-22 19:55:01: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/Notepad'
+2018-03-22 19:55:02: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/Notepad/.idea'
+2018-03-22 19:55:02: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/Notepad/.idea/artifacts'
+2018-03-22 19:55:08: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/Notepad/out'
+2018-03-22 19:55:10: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/Notepad/out/production'
+2018-03-22 19:55:11: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/Notepad/out/production/Notepad'
+2018-03-22 19:55:12: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/Notepad/out/production/Notepad/com'
+2018-03-22 19:55:12: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/Notepad/out/production/Notepad/com/intellij'
+- ERROR: Cannot create folder: make folder, parent item: item not found (1)
+2018-03-22 19:55:12: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/Notepad/out/production/Notepad/com/intellij/uiDesigner'
+- ERROR: Cannot create folder: make folder, parent item: item not found (1)
+2018-03-22 19:55:12: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/Notepad/out/production/Notepad/com/intellij/uiDesigner/core'
+- ERROR: Cannot create folder: make folder, parent item: item not found (1)
+2018-03-22 19:55:13: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/Notepad/out/production/Notepad/sample'
+2018-03-22 19:55:14: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/Notepad/src'
+2018-03-22 19:55:15: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/Notepad/src/sample'
+2018-03-22 19:55:16: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/Skobki'
+2018-03-22 19:55:17: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/Skobki/.idea'
+2018-03-22 19:55:18: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/Skobki/out'
+2018-03-22 19:55:19: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/Skobki/out/production'
+2018-03-22 19:55:20: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/Skobki/out/production/Skobki'
+2018-03-22 19:55:21: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/Skobki/src'
+2018-03-22 19:55:22: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/UI_101/out/production/UI_101/com'
+2018-03-22 19:55:23: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/UI_101/out/production/UI_101/com/intellij'
+2018-03-22 19:55:24: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/UI_101/out/production/UI_101/com/intellij/uiDesigner'
+2018-03-22 19:55:25: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/UI_101/out/production/UI_101/com/intellij/uiDesigner/core'
+2018-03-22 19:55:29: Stop requested by Stop By User: #1
+2018-03-22 19:55:29: Copy Over 'C:/Users/Pedro/IdeaProjects/blabla/.idea/workspace.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/blabla/.idea/workspace.xml' (31,356)
+- ERROR: changes.list: stopped by Stop By User
+2018-03-22 19:55:29: Save State File C:/Users/Pedro/IdeaProjects/_gsdata_/_file_state_v4._gs
+2018-03-22 19:55:31: Save State File gdrive://www.googleapis.com/IDEA Projects/_gsdata_/_file_state_v4._gs
+2018-03-22 19:55:31: Deleted lock file C:/Users/Pedro/IdeaProjects/_gsdata_/lock.gsl
+2018-03-22 19:55:32: Deleted lock file gdrive://www.googleapis.com/IDEA Projects/_gsdata_/lock.gsl
+2018-03-22 19:55:32: stopped by Stop By User
+2018-03-22 19:55:32: 

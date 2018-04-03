@@ -1,0 +1,167 @@
+2018-03-23 19:02:46: Connected to ~Pedro\IdeaProjects: C: NTFS: type=NTFS vol= flags=3E706FF
+2018-03-23 19:02:49: Connected to gdrive://www.googleapis.com/IDEA Projects
+2018-03-23 19:02:50: -- Analysis Started by User Command
+2018-03-23 19:02:50: IDEA backup: ANALYSIS started by User Command on 'DESKTOP-1F1IJAA' (GoodSync 10.8.1.6)
+2018-03-23 19:02:50: ~Pedro\IdeaProjects (C:/Users/Pedro/IdeaProjects) [TmpDest] =NoPropDels=> gdrive://www.googleapis.com/IDEA Projects [DirDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, ChangeLimit=50, LinksIgnore
+2018-03-23 19:02:50: Exclude Hidden, Exclude System, Exclude .DS_Store|/System Volume Information|Thumbs.db|name *._gstmp 
+2018-03-23 19:02:50: L: Reading State File C:/Users/Pedro/IdeaProjects/_gsdata_/_file_state_v4._gs
+2018-03-23 19:02:50: L: C:/Users/Pedro/IdeaProjects/_gsdata_/_file_state_v4._gs: created By: IDEA backup.Pedro@DESKTOP-1F1IJAA at: 2018.03.22 19:58:22 Russia TZ 2 Standard Time
+2018-03-23 19:02:50: L: Files: 260 (excluded 0). Folders: 153 (excluded 1). Times (s): Folder Scan: 0.034 (12176 f/s), Compare: 0.001 C: NTFS Free: 32.6 GB, Total: 237 GB
+2018-03-23 19:02:51: R: Reading State File gdrive://www.googleapis.com/IDEA Projects/_gsdata_/_file_state_v4._gs
+2018-03-23 19:02:52: R: gdrive://www.googleapis.com/IDEA Projects/_gsdata_/_file_state_v4._gs: created By: IDEA backup.Pedro@DESKTOP-1F1IJAA at: 2018.03.22 19:58:22 Russia TZ 2 Standard Time
+2018-03-23 19:03:22: R: Files: 194 (excluded 0). Folders: 131 (excluded 1). Times (s): Folder Scan: 31.769 (10 f/s), Compare: 0.003 Петр_Онущенко-0ANuEhgqY7CcyUk9PVA Free: 5.85 GB, Total: 15.0 GB
+2018-03-23 19:03:22: Do Not Propagate Deletions: 1-way deletions reverted: 1
+2018-03-23 19:03:22: On disk file:///C: space required for sync is 0 bytes, you have 32.6 GB
+2018-03-23 19:03:22: On disk gdrive://www.googleapis.com space required for sync is 557 KB, you have 5.85 GB
+2018-03-23 19:03:23: Changes: 115, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 438
+2018-03-23 19:03:23: Left to Right: Copy File: 115 
+2018-03-23 19:03:23: -- Analysis Complete. Time 00:00:36, Speed: 12 files/s
+2018-03-23 19:03:23: 
+2018-03-23 19:04:11: Exclude Hidden, Exclude System, Exclude .DS_Store|/System Volume Information|Thumbs.db|name *._gstmp 
+2018-03-23 19:04:11: === User Changed Action from 'COPY_FILE_LTOR' to 'COPY_FILE_RTOL' on item /UI_101/out/production/UI_101/MyUI.class
+2018-03-23 19:04:11: Done.
+2018-03-23 19:04:12: Exclude Hidden, Exclude System, Exclude .DS_Store|/System Volume Information|Thumbs.db|name *._gstmp 
+2018-03-23 19:04:12: === User Changed Action from 'COPY_FILE_LTOR' to 'COPY_FILE_RTOL' on item /UI_101/out/production/UI_101/MyUI$1.class
+2018-03-23 19:04:12: Done.
+2018-03-23 19:04:18: Exclude Hidden, Exclude System, Exclude .DS_Store|/System Volume Information|Thumbs.db|name *._gstmp 
+2018-03-23 19:04:18: === User Changed Action from 'COPY_FILE_LTOR' to 'COPY_FILE_RTOL' on item /UI_101/.idea/workspace.xml
+2018-03-23 19:04:18: === User Changed Action from 'COPY_FILE_LTOR' to 'COPY_FILE_RTOL' on item /UI_101/out/production/UI_101/MyUI$1.class
+2018-03-23 19:04:18: === User Changed Action from 'COPY_FILE_LTOR' to 'COPY_FILE_RTOL' on item /UI_101/out/production/UI_101/MyUI.class
+2018-03-23 19:04:18: Done.
+2018-03-23 19:04:25: Connected to ~Pedro\IdeaProjects: C: NTFS: type=NTFS vol= flags=3E706FF
+2018-03-23 19:04:25: Connected to gdrive://www.googleapis.com/IDEA Projects
+2018-03-23 19:04:26: == Sync Started by User Command
+2018-03-23 19:04:26: IDEA backup: SYNC started by User Command on 'DESKTOP-1F1IJAA'
+2018-03-23 19:04:26: ~Pedro\IdeaProjects (C:/Users/Pedro/IdeaProjects) [TmpDest] =NoPropDels=> gdrive://www.googleapis.com/IDEA Projects [DirDest], RecycleTo_RecycleBin, SaveDays_RecycleBin=30d, ReconnectSecs=120, ChangeLimit=50, LinksIgnore
+2018-03-23 19:04:26: Locking folder C:/Users/Pedro/IdeaProjects for write
+2018-03-23 19:04:26: Locking folder gdrive://www.googleapis.com/IDEA Projects for write
+2018-03-23 19:04:30: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/KILLER'
+2018-03-23 19:04:31: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/KILLER/.idea'
+2018-03-23 19:04:31: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/KILLER/.idea/artifacts'
+2018-03-23 19:04:33: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/KILLER/out'
+2018-03-23 19:04:33: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/KILLER/out/production'
+2018-03-23 19:04:34: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/KILLER/out/production/KILLER'
+2018-03-23 19:04:35: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/KILLER/out/production/KILLER/sample'
+2018-03-23 19:04:36: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/KILLER/src'
+2018-03-23 19:04:37: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/KILLER/src/sample'
+2018-03-23 19:04:38: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/NNN'
+2018-03-23 19:04:39: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/NNN/.idea'
+2018-03-23 19:04:40: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/NNN/.idea/artifacts'
+2018-03-23 19:04:41: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/NNN/src'
+2018-03-23 19:04:41: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/NNN/src/sample'
+2018-03-23 19:04:42: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/NPD'
+2018-03-23 19:04:43: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/NPD/.idea'
+2018-03-23 19:04:44: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/untitled'
+2018-03-23 19:04:45: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/untitled/.idea'
+2018-03-23 19:04:45: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/untitled/.idea/artifacts'
+2018-03-23 19:04:46: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/untitled/src'
+2018-03-23 19:04:47: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/untitled/src/sample'
+2018-03-23 19:04:48: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/untitled1'
+2018-03-23 19:04:49: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/untitled1/.idea'
+2018-03-23 19:04:50: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/untitled1/.idea/artifacts'
+2018-03-23 19:04:51: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/untitled1/out'
+2018-03-23 19:04:51: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/untitled1/out/production'
+2018-03-23 19:04:52: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/untitled1/out/production/untitled1'
+2018-03-23 19:04:53: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/untitled1/out/production/untitled1/sample'
+2018-03-23 19:04:54: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/untitled1/src'
+2018-03-23 19:04:55: Create Folder 'gdrive://www.googleapis.com/IDEA Projects/untitled1/src/sample'
+2018-03-23 19:04:57: Copy New 'C:/Users/Pedro/IdeaProjects/KILLER/.idea/compiler.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/KILLER/.idea/compiler.xml' (734)
+2018-03-23 19:04:59: Copy New 'C:/Users/Pedro/IdeaProjects/KILLER/.idea/description.html' -> 'gdrive://www.googleapis.com/IDEA Projects/KILLER/.idea/description.html' (189)
+2018-03-23 19:05:01: Copy New 'C:/Users/Pedro/IdeaProjects/KILLER/.idea/encodings.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/KILLER/.idea/encodings.xml' (171)
+2018-03-23 19:05:03: Copy New 'C:/Users/Pedro/IdeaProjects/KILLER/.idea/gradle.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/KILLER/.idea/gradle.xml' (218)
+2018-03-23 19:05:05: Copy New 'C:/Users/Pedro/IdeaProjects/KILLER/.idea/misc.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/KILLER/.idea/misc.xml' (489)
+2018-03-23 19:05:07: Copy New 'C:/Users/Pedro/IdeaProjects/KILLER/.idea/modules.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/KILLER/.idea/modules.xml' (259)
+2018-03-23 19:05:08: Copy New 'C:/Users/Pedro/IdeaProjects/KILLER/.idea/uiDesigner.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/KILLER/.idea/uiDesigner.xml' (8,919)
+2018-03-23 19:05:10: Copy New 'C:/Users/Pedro/IdeaProjects/KILLER/.idea/vcs.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/KILLER/.idea/vcs.xml' (173)
+2018-03-23 19:05:12: Copy New 'C:/Users/Pedro/IdeaProjects/KILLER/.idea/workspace.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/KILLER/.idea/workspace.xml' (33,738)
+2018-03-23 19:05:14: Copy New 'C:/Users/Pedro/IdeaProjects/KILLER/KILLER.iml' -> 'gdrive://www.googleapis.com/IDEA Projects/KILLER/KILLER.iml' (437)
+2018-03-23 19:05:17: Copy New 'C:/Users/Pedro/IdeaProjects/KILLER/out/production/KILLER/sample/Controller.class' -> 'gdrive://www.googleapis.com/IDEA Projects/KILLER/out/production/KILLER/sample/Controller.class' (3,195)
+2018-03-23 19:05:19: Copy New 'C:/Users/Pedro/IdeaProjects/KILLER/out/production/KILLER/sample/EditorModel.class' -> 'gdrive://www.googleapis.com/IDEA Projects/KILLER/out/production/KILLER/sample/EditorModel.class' (1,668)
+2018-03-23 19:05:22: Copy New 'C:/Users/Pedro/IdeaProjects/KILLER/out/production/KILLER/sample/IOResult.class' -> 'gdrive://www.googleapis.com/IDEA Projects/KILLER/out/production/KILLER/sample/IOResult.class' (920)
+2018-03-23 19:05:23: Copy New 'C:/Users/Pedro/IdeaProjects/KILLER/out/production/KILLER/sample/Main.class' -> 'gdrive://www.googleapis.com/IDEA Projects/KILLER/out/production/KILLER/sample/Main.class' (2,053)
+2018-03-23 19:05:25: Copy New 'C:/Users/Pedro/IdeaProjects/KILLER/out/production/KILLER/sample/sample.fxml' -> 'gdrive://www.googleapis.com/IDEA Projects/KILLER/out/production/KILLER/sample/sample.fxml' (2,152)
+2018-03-23 19:05:27: Copy New 'C:/Users/Pedro/IdeaProjects/KILLER/out/production/KILLER/sample/TextFile.class' -> 'gdrive://www.googleapis.com/IDEA Projects/KILLER/out/production/KILLER/sample/TextFile.class' (854)
+2018-03-23 19:05:29: Copy New 'C:/Users/Pedro/IdeaProjects/KILLER/src/sample/Controller.java' -> 'gdrive://www.googleapis.com/IDEA Projects/KILLER/src/sample/Controller.java' (1,350)
+2018-03-23 19:05:31: Copy New 'C:/Users/Pedro/IdeaProjects/KILLER/src/sample/EditorModel.java' -> 'gdrive://www.googleapis.com/IDEA Projects/KILLER/src/sample/EditorModel.java' (835)
+2018-03-23 19:05:33: Copy New 'C:/Users/Pedro/IdeaProjects/KILLER/src/sample/IOResult.java' -> 'gdrive://www.googleapis.com/IDEA Projects/KILLER/src/sample/IOResult.java' (390)
+2018-03-23 19:05:35: Copy New 'C:/Users/Pedro/IdeaProjects/KILLER/src/sample/Main.java' -> 'gdrive://www.googleapis.com/IDEA Projects/KILLER/src/sample/Main.java' (1,148)
+2018-03-23 19:05:37: Copy New 'C:/Users/Pedro/IdeaProjects/KILLER/src/sample/sample.fxml' -> 'gdrive://www.googleapis.com/IDEA Projects/KILLER/src/sample/sample.fxml' (2,152)
+2018-03-23 19:05:39: Copy New 'C:/Users/Pedro/IdeaProjects/KILLER/src/sample/TextFile.java' -> 'gdrive://www.googleapis.com/IDEA Projects/KILLER/src/sample/TextFile.java' (433)
+2018-03-23 19:05:40: Copy New 'C:/Users/Pedro/IdeaProjects/NNN/.idea/ant.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/NNN/.idea/ant.xml' (170)
+2018-03-23 19:05:42: Copy New 'C:/Users/Pedro/IdeaProjects/NNN/.idea/compiler.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/NNN/.idea/compiler.xml' (734)
+2018-03-23 19:05:45: Copy New 'C:/Users/Pedro/IdeaProjects/NNN/.idea/description.html' -> 'gdrive://www.googleapis.com/IDEA Projects/NNN/.idea/description.html' (189)
+2018-03-23 19:05:47: Copy New 'C:/Users/Pedro/IdeaProjects/NNN/.idea/encodings.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/NNN/.idea/encodings.xml' (171)
+2018-03-23 19:05:49: Copy New 'C:/Users/Pedro/IdeaProjects/NNN/.idea/gradle.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/NNN/.idea/gradle.xml' (218)
+2018-03-23 19:05:51: Copy New 'C:/Users/Pedro/IdeaProjects/NNN/.idea/misc.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/NNN/.idea/misc.xml' (489)
+2018-03-23 19:05:53: Copy New 'C:/Users/Pedro/IdeaProjects/NNN/.idea/modules.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/NNN/.idea/modules.xml' (253)
+2018-03-23 19:05:54: Copy New 'C:/Users/Pedro/IdeaProjects/NNN/.idea/uiDesigner.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/NNN/.idea/uiDesigner.xml' (8,919)
+2018-03-23 19:05:56: Copy New 'C:/Users/Pedro/IdeaProjects/NNN/.idea/vcs.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/NNN/.idea/vcs.xml' (173)
+2018-03-23 19:05:58: Copy New 'C:/Users/Pedro/IdeaProjects/NNN/.idea/workspace.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/NNN/.idea/workspace.xml' (23,854)
+2018-03-23 19:06:00: Copy New 'C:/Users/Pedro/IdeaProjects/NNN/NNN.iml' -> 'gdrive://www.googleapis.com/IDEA Projects/NNN/NNN.iml' (437)
+2018-03-23 19:06:02: Copy New 'C:/Users/Pedro/IdeaProjects/NNN/src/sample/Controller.java' -> 'gdrive://www.googleapis.com/IDEA Projects/NNN/src/sample/Controller.java' (49)
+2018-03-23 19:06:04: Copy New 'C:/Users/Pedro/IdeaProjects/NNN/src/sample/Main.java' -> 'gdrive://www.googleapis.com/IDEA Projects/NNN/src/sample/Main.java' (602)
+2018-03-23 19:06:06: Copy New 'C:/Users/Pedro/IdeaProjects/NNN/src/sample/sample.fxml' -> 'gdrive://www.googleapis.com/IDEA Projects/NNN/src/sample/sample.fxml' (298)
+2018-03-23 19:06:07: Copy New 'C:/Users/Pedro/IdeaProjects/NPD/.idea/misc.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/NPD/.idea/misc.xml' (172)
+2018-03-23 19:06:09: Copy New 'C:/Users/Pedro/IdeaProjects/NPD/.idea/modules.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/NPD/.idea/modules.xml' (246)
+2018-03-23 19:06:11: Copy New 'C:/Users/Pedro/IdeaProjects/NPD/.idea/workspace.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/NPD/.idea/workspace.xml' (14,773)
+2018-03-23 19:06:13: Copy New 'C:/Users/Pedro/IdeaProjects/NPD/EditorApp.java' -> 'gdrive://www.googleapis.com/IDEA Projects/NPD/EditorApp.java' (42,557)
+2018-03-23 19:06:14: Copy New 'C:/Users/Pedro/IdeaProjects/NPD/EditorController.java' -> 'gdrive://www.googleapis.com/IDEA Projects/NPD/EditorController.java' (52,948)
+2018-03-23 19:06:16: Copy New 'C:/Users/Pedro/IdeaProjects/NPD/EditorModel.java' -> 'gdrive://www.googleapis.com/IDEA Projects/NPD/EditorModel.java' (44,984)
+2018-03-23 19:06:18: Copy New 'C:/Users/Pedro/IdeaProjects/NPD/IOResult.java' -> 'gdrive://www.googleapis.com/IDEA Projects/NPD/IOResult.java' (42,304)
+2018-03-23 19:06:20: Copy New 'C:/Users/Pedro/IdeaProjects/NPD/NPD.iml' -> 'gdrive://www.googleapis.com/IDEA Projects/NPD/NPD.iml' (335)
+2018-03-23 19:06:21: Copy New 'C:/Users/Pedro/IdeaProjects/NPD/TextFile.java' -> 'gdrive://www.googleapis.com/IDEA Projects/NPD/TextFile.java' (42,452)
+2018-03-23 19:06:23: Copy New 'C:/Users/Pedro/IdeaProjects/NPD/ui.fxml' -> 'gdrive://www.googleapis.com/IDEA Projects/NPD/ui.fxml' (47,561)
+2018-03-23 19:06:24: Initialize _saved_ folder tracking in the state: C:/Users/Pedro/IdeaProjects/_gsdata_/_recycled_db._gs, set to: 2018-03-08 19:06:24
+2018-03-23 19:06:24: Copy Over 'gdrive://www.googleapis.com/IDEA Projects/UI_101/.idea/workspace.xml' -> 'C:/Users/Pedro/IdeaProjects/UI_101/.idea/workspace.xml' (27,139) (User Action)
+2018-03-23 19:06:25: Copy Over 'gdrive://www.googleapis.com/IDEA Projects/UI_101/out/production/UI_101/MyUI$1.class' -> 'C:/Users/Pedro/IdeaProjects/UI_101/out/production/UI_101/MyUI$1.class' (1,262) (User Action)
+2018-03-23 19:06:26: Copy Over 'gdrive://www.googleapis.com/IDEA Projects/UI_101/out/production/UI_101/MyUI.class' -> 'C:/Users/Pedro/IdeaProjects/UI_101/out/production/UI_101/MyUI.class' (1,783) (User Action)
+2018-03-23 19:06:28: Copy New 'C:/Users/Pedro/IdeaProjects/untitled/.idea/ant.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled/.idea/ant.xml' (170)
+2018-03-23 19:06:30: Copy New 'C:/Users/Pedro/IdeaProjects/untitled/.idea/compiler.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled/.idea/compiler.xml' (734)
+2018-03-23 19:06:32: Copy New 'C:/Users/Pedro/IdeaProjects/untitled/.idea/description.html' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled/.idea/description.html' (189)
+2018-03-23 19:06:33: Copy New 'C:/Users/Pedro/IdeaProjects/untitled/.idea/encodings.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled/.idea/encodings.xml' (171)
+2018-03-23 19:06:35: Copy New 'C:/Users/Pedro/IdeaProjects/untitled/.idea/gradle.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled/.idea/gradle.xml' (218)
+2018-03-23 19:06:37: Copy New 'C:/Users/Pedro/IdeaProjects/untitled/.idea/misc.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled/.idea/misc.xml' (489)
+2018-03-23 19:06:39: Copy New 'C:/Users/Pedro/IdeaProjects/untitled/.idea/modules.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled/.idea/modules.xml' (263)
+2018-03-23 19:06:40: Copy New 'C:/Users/Pedro/IdeaProjects/untitled/.idea/uiDesigner.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled/.idea/uiDesigner.xml' (8,919)
+2018-03-23 19:06:42: Copy New 'C:/Users/Pedro/IdeaProjects/untitled/.idea/vcs.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled/.idea/vcs.xml' (173)
+2018-03-23 19:06:44: Copy New 'C:/Users/Pedro/IdeaProjects/untitled/.idea/workspace.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled/.idea/workspace.xml' (25,902)
+2018-03-23 19:06:46: Copy New 'C:/Users/Pedro/IdeaProjects/untitled/src/sample/Controller.java' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled/src/sample/Controller.java' (49)
+2018-03-23 19:06:48: Copy New 'C:/Users/Pedro/IdeaProjects/untitled/src/sample/Main.java' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled/src/sample/Main.java' (602)
+2018-03-23 19:06:49: Copy New 'C:/Users/Pedro/IdeaProjects/untitled/src/sample/sample.fxml' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled/src/sample/sample.fxml' (298)
+2018-03-23 19:06:51: Copy New 'C:/Users/Pedro/IdeaProjects/untitled/untitled.iml' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled/untitled.iml' (437)
+2018-03-23 19:06:53: Copy New 'C:/Users/Pedro/IdeaProjects/untitled1/.idea/compiler.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled1/.idea/compiler.xml' (734)
+2018-03-23 19:06:55: Copy New 'C:/Users/Pedro/IdeaProjects/untitled1/.idea/description.html' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled1/.idea/description.html' (189)
+2018-03-23 19:06:56: Copy New 'C:/Users/Pedro/IdeaProjects/untitled1/.idea/encodings.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled1/.idea/encodings.xml' (171)
+2018-03-23 19:06:58: Copy New 'C:/Users/Pedro/IdeaProjects/untitled1/.idea/gradle.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled1/.idea/gradle.xml' (218)
+2018-03-23 19:07:00: Copy New 'C:/Users/Pedro/IdeaProjects/untitled1/.idea/misc.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled1/.idea/misc.xml' (489)
+2018-03-23 19:07:02: Copy New 'C:/Users/Pedro/IdeaProjects/untitled1/.idea/modules.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled1/.idea/modules.xml' (265)
+2018-03-23 19:07:04: Copy New 'C:/Users/Pedro/IdeaProjects/untitled1/.idea/uiDesigner.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled1/.idea/uiDesigner.xml' (8,919)
+2018-03-23 19:07:06: Copy New 'C:/Users/Pedro/IdeaProjects/untitled1/.idea/vcs.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled1/.idea/vcs.xml' (173)
+2018-03-23 19:07:08: C:/Users/Pedro/IdeaProjects/untitled1/.idea/workspace.xml: Source file has changed between Analyze and Sync from '[file] size=33,701 accu-time=2018-03-23 18:10:25 attr=Archive cktype=0' to 'size=33,701 time=2018-03-23 19:06:37', noted in source file state
+2018-03-23 19:07:08: Copy New 'C:/Users/Pedro/IdeaProjects/untitled1/.idea/workspace.xml' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled1/.idea/workspace.xml' (33,701)
+2018-03-23 19:07:09: Copy New 'C:/Users/Pedro/IdeaProjects/untitled1/out/production/untitled1/sample/EditorApp.class' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled1/out/production/untitled1/sample/EditorApp.class' (1,990)
+2018-03-23 19:07:11: Copy New 'C:/Users/Pedro/IdeaProjects/untitled1/out/production/untitled1/sample/EditorController.class' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled1/out/production/untitled1/sample/EditorController.class' (3,909)
+2018-03-23 19:07:13: Copy New 'C:/Users/Pedro/IdeaProjects/untitled1/out/production/untitled1/sample/EditorModel.class' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled1/out/production/untitled1/sample/EditorModel.class' (1,668)
+2018-03-23 19:07:14: Copy New 'C:/Users/Pedro/IdeaProjects/untitled1/out/production/untitled1/sample/IOResult.class' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled1/out/production/untitled1/sample/IOResult.class' (920)
+2018-03-23 19:07:16: Copy New 'C:/Users/Pedro/IdeaProjects/untitled1/out/production/untitled1/sample/TextFile.class' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled1/out/production/untitled1/sample/TextFile.class' (854)
+2018-03-23 19:07:18: Copy New 'C:/Users/Pedro/IdeaProjects/untitled1/out/production/untitled1/sample/ui.fxml' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled1/out/production/untitled1/sample/ui.fxml' (1,274)
+2018-03-23 19:07:20: Copy New 'C:/Users/Pedro/IdeaProjects/untitled1/src/sample/EditorApp.java' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled1/src/sample/EditorApp.java' (595)
+2018-03-23 19:07:22: C:/Users/Pedro/IdeaProjects/untitled1/src/sample/EditorController.java: Source file has changed between Analyze and Sync from '[file] size=1,894 accu-time=2018-03-23 18:02:08 attr=Archive cktype=0' to 'size=1,904 time=2018-03-23 19:06:37', noted in source file state
+2018-03-23 19:07:22: Copy New 'C:/Users/Pedro/IdeaProjects/untitled1/src/sample/EditorController.java' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled1/src/sample/EditorController.java' (1,894)
+2018-03-23 19:07:24: Copy New 'C:/Users/Pedro/IdeaProjects/untitled1/src/sample/EditorModel.java' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled1/src/sample/EditorModel.java' (839)
+2018-03-23 19:07:25: Copy New 'C:/Users/Pedro/IdeaProjects/untitled1/src/sample/IOResult.java' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled1/src/sample/IOResult.java' (386)
+2018-03-23 19:07:27: Copy New 'C:/Users/Pedro/IdeaProjects/untitled1/src/sample/TextFile.java' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled1/src/sample/TextFile.java' (437)
+2018-03-23 19:07:29: Copy New 'C:/Users/Pedro/IdeaProjects/untitled1/src/sample/ui.fxml' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled1/src/sample/ui.fxml' (1,274)
+2018-03-23 19:07:30: Copy New 'C:/Users/Pedro/IdeaProjects/untitled1/untitled1.iml' -> 'gdrive://www.googleapis.com/IDEA Projects/untitled1/untitled1.iml' (437)
+2018-03-23 19:07:30: Save State File C:/Users/Pedro/IdeaProjects/_gsdata_/_file_state_v4._gs
+2018-03-23 19:07:32: Save State File gdrive://www.googleapis.com/IDEA Projects/_gsdata_/_file_state_v4._gs
+2018-03-23 19:07:32: Cleanup recycled files in C:/Users/Pedro/IdeaProjects/_gsdata_/_saved_
+2018-03-23 19:07:32: Save Recycled DB: C:/Users/Pedro/IdeaProjects/_gsdata_/_recycled_db._gs
+2018-03-23 19:07:32: Cleanup old logs in C:/Users/Pedro/IdeaProjects/_gsdata_
+2018-03-23 19:07:32: Cleanup recycled files in gdrive://www.googleapis.com/IDEA Projects/_gsdata_/_saved_
+2018-03-23 19:07:33: Load Recycled DB: gdrive://www.googleapis.com/IDEA Projects/_gsdata_/_recycled_db._gs
+2018-03-23 19:07:33: Cleanup old logs in gdrive://www.googleapis.com/IDEA Projects/_gsdata_
+2018-03-23 19:07:33: == Sync Complete. Time: 00:03:08, Speed: 6.71 KB/s, OK: 115, Errors: 0
+2018-03-23 19:07:33: Unlocking folder C:/Users/Pedro/IdeaProjects/_gsdata_/lock.gsl
+2018-03-23 19:07:33: Unlocking folder gdrive://www.googleapis.com/IDEA Projects/_gsdata_/lock.gsl
+2018-03-23 19:07:35: 
