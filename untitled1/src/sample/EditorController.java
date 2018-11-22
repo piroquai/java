@@ -5,6 +5,8 @@ import javafx.scene.control.TextArea;
 import javafx.stage.FileChooser;
 
 import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.Arrays;
 
 
@@ -25,14 +27,20 @@ public class EditorController {
     private void onSaveas() {
         FileChooser fileChooser = new FileChooser();
         fileChooser.setInitialDirectory(new File("./"));
+        File fileSave = fileChooser.showSaveDialog(null);
 //        fileChooser.setSelectedExtensionFilter();
-        fileChooser.showSaveDialog(null);
+
+        try (FileWriter writer = new FileWriter(new File(String.valueOf(fileSave)), false)){
+            writer.write(areaText.getText());
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
 
     }
 
     @FXML
     private void onSave() {
-        TextFile textFile = new TextFile(currentTextFile.getFile(), Arrays.asList(areaText.getText().split("\n")));
+                TextFile textFile = new TextFile(currentTextFile.getFile(), Arrays.asList(areaText.getText().split("\n")));
         model.save(textFile);
     }
 
@@ -65,7 +73,7 @@ public class EditorController {
         Alert alert = new Alert(Alert.AlertType.INFORMATION);
         alert.setHeaderText(null);
         alert.setTitle("About");
-        alert.setContentText("This is a simple text editor EditorApp");
+        alert.setContentText("This is NotepadKiller v 1.0");
         alert.show();
     }
 }

@@ -11,7 +11,7 @@ public class Drawer {
     Argument x;
     GraphicsContext gc;
     Expression e;
-    public void graphDrawer(Expression e, ){
+    public void graphDrawer(){
         for (double z = 0; z < canvas.getWidth(); z++) {
             x.setArgumentValue(z);
 
@@ -21,5 +21,6 @@ public class Drawer {
             gc.lineTo(z*100, canvas.getHeight()-e.calculate()*100);
         }
         gc.stroke();
+
     }
 }
